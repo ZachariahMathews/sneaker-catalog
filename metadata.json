@@ -1,0 +1,6 @@
+{
+  "name": "Sneaker Catalog",
+  "description": "Curated selection of footwear featuring top models from Adidas, On, and Nike.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
